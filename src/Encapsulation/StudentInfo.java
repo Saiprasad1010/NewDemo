@@ -9,7 +9,7 @@ public class StudentInfo extends CollegeSt {
 		SI.setSt_Nm("Saiprasad");
 		SI.setSt_RN(3854);
 		SI.setSt_Id(1205390048);
-		SI.setSt_Branch("Science");
+		SI.setSt_Branch("Engineering");
 		
 		System.out.println(SI.getSt_Nm());
 		System.out.println(SI.getSt_RN());
