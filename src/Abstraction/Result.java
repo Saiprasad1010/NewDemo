@@ -7,7 +7,7 @@ public class Result extends StudentData {
 		// TODO Auto-generated method stub
 		
 		Result SD = new Result();
-		SD.setSt_RN(3854);
+		SD.setSt_RN(385400);
 		SD.setSt_Nm("Saiprasad");
 		System.out.println(SD.getSt_RN());
 		System.out.println(SD.getSt_Nm());
